@@ -1,4 +1,23 @@
-## Hi there 👋
+# Norat Kumawat 👋
+
+### B.Tech AI & Data Engineering Student
+
+I'm a first-year student at JAIN (Deemed-to-be University), Bengaluru, currently building my foundations in **programming, AI, data, and cybersecurity**.
+
+- 🎓 B.Tech in Artificial Intelligence & Data Engineering
+- 💻 Currently learning Python, C, Git & GitHub
+- 🔐 Exploring cybersecurity
+- 🤖 Interested in AI & data
+- 🚀 Building projects and learning by doing
+
+### Currently Learning
+
+`Python` `C` `Git` `GitHub` `AI` `Data` `Cybersecurity`
+
+### Connect
+
+- [LinkedIn](www.linkedin.com/in/noratkumawat)
+
 
 <!--
 **noratkumawat/noratkumawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
